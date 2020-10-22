@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Gun's Page
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: Wanna be a good programmer.
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
