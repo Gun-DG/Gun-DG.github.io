@@ -8,8 +8,7 @@
 ### 1. To start blog
 
 I need skills to write my log , and make categories
-
-```
+```highlighted box
 # Header 1
 ## Header 2
 ### Header 3
@@ -24,7 +23,6 @@ I need skills to write my log , and make categories
 
 [Link](url) and ![Image](src)
 ```
-
 these are extremely simple skills, and 
 now i need to make folder 
 
